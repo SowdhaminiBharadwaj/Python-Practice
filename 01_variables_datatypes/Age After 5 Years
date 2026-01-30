@@ -1,0 +1,4 @@
+# Take the user’s current age as input and print how old the user will be after 5 years.
+age = int(input("Enter your age:"))
+age += 5
+print("Your age after 5 years is", age)
